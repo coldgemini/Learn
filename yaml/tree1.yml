@@ -1,0 +1,10 @@
+# tree format
+treeroot:
+  branch1:
+    name: Node 3
+    branch1-1:
+      name: Node 3-3
+  branch2:
+    name: Node 2
+    branch2-1:
+      name: Node 2-1

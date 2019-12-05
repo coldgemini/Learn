@@ -1,0 +1,1 @@
+cmd_/home/xiang/Learn/kernel/hello2/lkm_example.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/xiang/Learn/kernel/hello2/lkm_example.ko /home/xiang/Learn/kernel/hello2/lkm_example.o /home/xiang/Learn/kernel/hello2/lkm_example.mod.o ;  true

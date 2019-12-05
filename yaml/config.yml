@@ -1,0 +1,41 @@
+setup:
+  SNAPSHOT_DIR: './snapshots/aorta_3d/'
+  LOG_DIR: './logs/aorta_3d/'
+  LOG_FILENAME: 'aorta_3d.log'
+  TFRECORD_DIR: './datasets/tfrecords/aorta_3d/'
+  #  SPLIT: "train"
+  SPLIT: "debug"
+  RANDOM_SEED: 1234
+  NUM_SNAPSHOTS: 100
+
+data:
+  IMAGE_SIZE: 256
+  IMAGE_CHS: 8
+  BATCH_SIZE: 2
+
+model:
+  NUM_CLASSES: 2
+  MODEL_NAME: 'deeplab'
+
+hw:
+  NUM_GPUS: 1
+
+summary:
+  SAVE_NUM_IMAGES: 2
+
+train:
+  UPDATE_WEIGHTS: False
+  NUM_STEPS: 100000000
+  SAVE_PERIOD: 1000
+  EVAL_PERIOD: 1000
+
+  LEARNING_RATE: 0.001
+  MOMENTUM: 0.9
+  WEIGHT_DECAY: 0.0005
+  BOUNDARIES:
+    - 10000
+    - 110000
+  VALUES:
+    - 0.001
+    - 0.001
+    - 0.001
