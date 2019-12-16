@@ -112,3 +112,5 @@ _deps
 *.bin
 
 */.idea/*
+
+cmake-build-debug

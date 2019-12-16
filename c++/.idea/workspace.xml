@@ -10,8 +10,9 @@
       <config projectName="untitled1" targetName="treeReconst_shared_ptr.bin" />
       <config projectName="untitled1" targetName="vector.bin" />
       <config projectName="untitled1" targetName="search2darray.bin" />
-      <config projectName="untitled1" targetName="list.bin" />
       <config projectName="untitled1" targetName="treeReconst_unique_ptr.bin" />
+      <config projectName="untitled1" targetName="list.bin" />
+      <config projectName="untitled1" targetName="queue_from_2stacks.bin" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -20,43 +21,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="169b3e58-7cfa-46ee-9f6c-0e1b91b1b0fe" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/replaceSpace/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/replaceSpace/replaceSpace.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/reverse_print_list/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/reverse_print_list/reverse_print_list.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/search2darray/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/treeReconst/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/treeReconst/treeReconst_shared_ptr.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/treeReconst/treeReconst_unique_ptr.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl/list.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl/vector.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syntax/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syntax/array.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syntax/string.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/syntax/struct.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/c++.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/c++.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b920635c-e62a-4497-98af-acb3edaaf9b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SwordOffer/queue_from_2stacks/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/queue_from_2stacks/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/queue_from_2stacks/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwordOffer/queue_from_2stacks/main_deprecated.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cuda/tut0/.idea/tut0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/stack/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/list/stack/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cuda/pybind/.idea/pybind.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cuda/pybind/.idea/pybind.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cuda/pybind/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cuda/pybind/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cuda/pybind/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cuda/pybind/.idea/workspace.xml" afterDir="false" />
->>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
+      <change beforePath="$PROJECT_DIR$/SwordOffer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SwordOffer/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled1.cbp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +36,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,12 +48,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Uym1Tm3Ry3yaWi80Kw0mZYPuCe" />
-=======
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1V3ZJWWjxbcYM72K7PnRI9sgfrF" />
->>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -92,38 +55,36 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SwordOffer/treeReconst" />
-=======
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SwordOffer/queue_from_2stacks" />
->>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-<<<<<<< HEAD
+      <recent name="$PROJECT_DIR$/SwordOffer/queue_from_2stacks" />
       <recent name="$PROJECT_DIR$/SwordOffer/treeReconst" />
       <recent name="$PROJECT_DIR$/syntax" />
       <recent name="$PROJECT_DIR$/SwordOffer" />
       <recent name="$PROJECT_DIR$/stl" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.treeReconst_shared_ptr.bin">
+  <component name="RunManager" selected="CMake Application.queue_from_2stacks.bin">
     <configuration name="array.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="array.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="array.bin">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="list.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="list.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="list.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="queue_from_2stacks.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="queue_from_2stacks.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="queue_from_2stacks.bin">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -171,6 +132,7 @@
     <list>
       <item itemvalue="CMake Application.list.bin" />
       <item itemvalue="CMake Application.vector.bin" />
+      <item itemvalue="CMake Application.queue_from_2stacks.bin" />
       <item itemvalue="CMake Application.replaceSpace.bin" />
       <item itemvalue="CMake Application.reverse_print_list.bin" />
       <item itemvalue="CMake Application.search2darray.bin" />
@@ -181,12 +143,6 @@
       <item itemvalue="CMake Application.struct.bin" />
     </list>
   </component>
-=======
-      <recent name="$PROJECT_DIR$/SwordOffer/queue_from_2stacks" />
-      <recent name="$PROJECT_DIR$/sort/quickSort" />
-    </key>
-  </component>
->>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -211,19 +167,14 @@
       <updated>1570522734634</updated>
       <workItem from="1570522737903" duration="6531000" />
       <workItem from="1570866511489" duration="9000" />
-<<<<<<< HEAD
       <workItem from="1576336994658" duration="8914000" />
       <workItem from="1576388789787" duration="13136000" />
-=======
-      <workItem from="1576483668837" duration="5813000" />
->>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="553" y="143" width="804" height="679" key="#Notifications" timestamp="1576420015712">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -233,43 +184,45 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="691" y="234" width="528" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576339327643" />
-    <state width="1878" height="202" key="GridCell.Tab.0.bottom" timestamp="1576420364427">
+    <state x="741" y="239" width="428" height="486" key="FileChooserDialogImpl" timestamp="1576500523097">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364427" />
-    <state width="1878" height="202" key="GridCell.Tab.0.center" timestamp="1576420364425">
+    <state x="741" y="239" width="428" height="486" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576500523097" />
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom" timestamp="1576500525156">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364425" />
-    <state width="1878" height="202" key="GridCell.Tab.0.left" timestamp="1576420364424">
+    <state width="1878" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525156" />
+    <state width="1878" height="355" key="GridCell.Tab.0.center" timestamp="1576500525156">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364424" />
-    <state width="1878" height="202" key="GridCell.Tab.0.right" timestamp="1576420364426">
+    <state width="1878" height="355" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525156" />
+    <state width="1878" height="355" key="GridCell.Tab.0.left" timestamp="1576500525156">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364426" />
-    <state width="1878" height="202" key="GridCell.Tab.1.bottom" timestamp="1576411846334">
+    <state width="1878" height="355" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525156" />
+    <state width="1878" height="355" key="GridCell.Tab.0.right" timestamp="1576500525156">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
-    <state width="1878" height="202" key="GridCell.Tab.1.center" timestamp="1576411846334">
+    <state width="1878" height="355" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525156" />
+    <state width="1878" height="355" key="GridCell.Tab.1.bottom" timestamp="1576500525157">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
-    <state width="1878" height="202" key="GridCell.Tab.1.left" timestamp="1576411846334">
+    <state width="1878" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525157" />
+    <state width="1878" height="355" key="GridCell.Tab.1.center" timestamp="1576500525156">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
-    <state width="1878" height="202" key="GridCell.Tab.1.right" timestamp="1576411846334">
+    <state width="1878" height="355" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525156" />
+    <state width="1878" height="355" key="GridCell.Tab.1.left" timestamp="1576500525156">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="202" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
-    <state x="441" y="30" width="1022" height="732" key="SettingsEditor" timestamp="1576411432475">
+    <state width="1878" height="355" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525156" />
+    <state width="1878" height="355" key="GridCell.Tab.1.right" timestamp="1576500525157">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="441" y="30" width="1022" height="732" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576411432475" />
+    <state width="1878" height="355" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576500525157" />
+    <state x="439" y="0" width="1022" height="732" key="SettingsEditor" timestamp="1576500371528">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="439" y="0" width="1022" height="732" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576500371528" />
   </component>
-=======
->>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
 </project>
