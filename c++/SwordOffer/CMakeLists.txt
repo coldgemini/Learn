@@ -1,0 +1,4 @@
+add_subdirectory(search2darray)
+add_subdirectory(replaceSpace)
+add_subdirectory(reverse_print_list)
+add_subdirectory(treeReconst)

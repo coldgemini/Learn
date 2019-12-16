@@ -1,0 +1,2 @@
+add_executable(treeReconst_unique_ptr.bin treeReconst_unique_ptr.cpp)
+add_executable(treeReconst_shared_ptr.bin treeReconst_shared_ptr.cpp)

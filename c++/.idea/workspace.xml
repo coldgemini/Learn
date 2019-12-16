@@ -1,16 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="untitled1" targetName="reverse_print_list.bin" />
+      <config projectName="untitled1" targetName="string.bin" />
+      <config projectName="untitled1" targetName="array.bin" />
+      <config projectName="untitled1" targetName="struct.bin" />
+      <config projectName="untitled1" targetName="replaceSpace.bin" />
+      <config projectName="untitled1" targetName="treeReconst_shared_ptr.bin" />
+      <config projectName="untitled1" targetName="vector.bin" />
+      <config projectName="untitled1" targetName="search2darray.bin" />
+      <config projectName="untitled1" targetName="list.bin" />
+      <config projectName="untitled1" targetName="treeReconst_unique_ptr.bin" />
+    </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="169b3e58-7cfa-46ee-9f6c-0e1b91b1b0fe" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="169b3e58-7cfa-46ee-9f6c-0e1b91b1b0fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/replaceSpace/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/replaceSpace/replaceSpace.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/reverse_print_list/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/reverse_print_list/reverse_print_list.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/search2darray/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/treeReconst/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/treeReconst/treeReconst_shared_ptr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/treeReconst/treeReconst_unique_ptr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl/list.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl/vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/string.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syntax/struct.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/c++.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/c++.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,261 +53,116 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list/linked_list/linked_list.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list/linked_list/linked_list.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sort/heapSort/heapSort.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sort/quickSort/build.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sort/quickSort/quickSort1.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sort/quickSort/quickSort2.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/BST/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/BST/BST.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/BST/BST.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list/stack/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="$PROJECT_DIR$/sort/quickSort/quickSort.cpp" />
-        <option value="$PROJECT_DIR$/sort/quickSort/build.sh" />
-        <option value="$PROJECT_DIR$/sort/quickSort/quickSort2.cpp" />
-        <option value="$PROJECT_DIR$/tree/BST/BST.cpp" />
+        <option value="CMakeLists.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="-31" />
-    <option name="width" value="1924" />
-    <option name="height" value="1088" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="dypro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="dypro" type="462c0819:PsiDirectoryNode" />
-              <item name="shortestPath" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="linkage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="bubbleSort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="heapSort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="symbols" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="translation_unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="c++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="c++" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BST" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1Uym1Tm3Ry3yaWi80Kw0mZYPuCe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sort/quickSort" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SwordOffer/treeReconst" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sort/quickSort" />
+      <recent name="$PROJECT_DIR$/SwordOffer/treeReconst" />
+      <recent name="$PROJECT_DIR$/syntax" />
+      <recent name="$PROJECT_DIR$/SwordOffer" />
+      <recent name="$PROJECT_DIR$/stl" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="CMake Application.treeReconst_shared_ptr.bin">
+    <configuration name="array.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="array.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="array.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="list.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="list.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="list.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="replaceSpace.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="replaceSpace.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="replaceSpace.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_print_list.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="reverse_print_list.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="reverse_print_list.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search2darray.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="search2darray.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="search2darray.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="string.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="string.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="struct.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="struct.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="struct.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="treeReconst_shared_ptr.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="treeReconst_shared_ptr.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="treeReconst_shared_ptr.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="treeReconst_unique_ptr.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="treeReconst_unique_ptr.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="treeReconst_unique_ptr.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector.bin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="vector.bin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="vector.bin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.list.bin" />
+      <item itemvalue="CMake Application.vector.bin" />
+      <item itemvalue="CMake Application.replaceSpace.bin" />
+      <item itemvalue="CMake Application.reverse_print_list.bin" />
+      <item itemvalue="CMake Application.search2darray.bin" />
+      <item itemvalue="CMake Application.treeReconst_shared_ptr.bin" />
+      <item itemvalue="CMake Application.treeReconst_unique_ptr.bin" />
+      <item itemvalue="CMake Application.array.bin" />
+      <item itemvalue="CMake Application.string.bin" />
+      <item itemvalue="CMake Application.struct.bin" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -289,112 +178,58 @@
       <updated>1570522734634</updated>
       <workItem from="1570522737903" duration="6531000" />
       <workItem from="1570866511489" duration="9000" />
+      <workItem from="1576336994658" duration="8914000" />
+      <workItem from="1576388789787" duration="13136000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6540000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-2" y="-31" width="1924" height="1088" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1368477" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32952183" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="make" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/list/linked_list/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list/linked_list/linked_list.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list/linked_list/linked_list.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort/heapSort/heapSort.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort/quickSort/build.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort/quickSort/quickSort1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort/quickSort/quickSort2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/BST/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/BST/BST.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list/stack/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/BST/BST.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="553" y="143" width="804" height="679" key="#Notifications" timestamp="1576420015712">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="143" width="804" height="679" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1576420015712" />
+    <state x="691" y="234" width="528" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576339327643">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="234" width="528" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576339327643" />
+    <state width="1878" height="202" key="GridCell.Tab.0.bottom" timestamp="1576420364427">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364427" />
+    <state width="1878" height="202" key="GridCell.Tab.0.center" timestamp="1576420364425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364425" />
+    <state width="1878" height="202" key="GridCell.Tab.0.left" timestamp="1576420364424">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364424" />
+    <state width="1878" height="202" key="GridCell.Tab.0.right" timestamp="1576420364426">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576420364426" />
+    <state width="1878" height="202" key="GridCell.Tab.1.bottom" timestamp="1576411846334">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
+    <state width="1878" height="202" key="GridCell.Tab.1.center" timestamp="1576411846334">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
+    <state width="1878" height="202" key="GridCell.Tab.1.left" timestamp="1576411846334">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
+    <state width="1878" height="202" key="GridCell.Tab.1.right" timestamp="1576411846334">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="202" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576411846334" />
+    <state x="441" y="30" width="1022" height="732" key="SettingsEditor" timestamp="1576411432475">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="441" y="30" width="1022" height="732" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576411432475" />
   </component>
 </project>

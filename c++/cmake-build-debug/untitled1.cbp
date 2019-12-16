@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\stl\;CMake Files\syntax\;CMake Files\SwordOffer\;CMake Files\SwordOffer\search2darray\;CMake Files\SwordOffer\replaceSpace\;CMake Files\SwordOffer\reverse_print_list\;CMake Files\SwordOffer\treeReconst\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/vector.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 vector.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/vector.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 vector.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/list.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 list.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/list.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 list.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/stl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/array.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 array.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/array.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 array.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="struct.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/struct.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 struct.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="struct.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/struct.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 struct.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/string.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 string.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/string.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 string.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/syntax/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search2darray.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/search2darray.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 search2darray.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search2darray.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/search2darray.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 search2darray.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/search2darray/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="replaceSpace.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/replaceSpace.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 replaceSpace.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="replaceSpace.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/replaceSpace.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 replaceSpace.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/replaceSpace/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reverse_print_list.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/reverse_print_list.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 reverse_print_list.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reverse_print_list.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/reverse_print_list.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 reverse_print_list.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/reverse_print_list/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="treeReconst_unique_ptr.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/treeReconst_unique_ptr.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 treeReconst_unique_ptr.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="treeReconst_unique_ptr.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/treeReconst_unique_ptr.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 treeReconst_unique_ptr.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="treeReconst_shared_ptr.bin">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/treeReconst_shared_ptr.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 treeReconst_shared_ptr.bin"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="treeReconst_shared_ptr.bin/fast">
+				<Option output="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/treeReconst_shared_ptr.bin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 treeReconst_shared_ptr.bin/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/xiang/Workspace/Learn/c++/cmake-build-debug/SwordOffer/treeReconst/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/replaceSpace/replaceSpace.cpp">
+			<Option target="replaceSpace.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/reverse_print_list/reverse_print_list.cpp">
+			<Option target="reverse_print_list.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/search2darray/search2darray.cpp">
+			<Option target="search2darray.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/treeReconst/treeReconst_shared_ptr.cpp">
+			<Option target="treeReconst_shared_ptr.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/treeReconst/treeReconst_unique_ptr.cpp">
+			<Option target="treeReconst_unique_ptr.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/stl/list.cpp">
+			<Option target="list.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/stl/vector.cpp">
+			<Option target="vector.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/syntax/array.cpp">
+			<Option target="array.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/syntax/string.cpp">
+			<Option target="string.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/syntax/struct.cpp">
+			<Option target="struct.bin"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/stl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\stl\"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/syntax/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\syntax\"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\SwordOffer\"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/search2darray/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\SwordOffer\search2darray\"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/replaceSpace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\SwordOffer\replaceSpace\"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/reverse_print_list/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\SwordOffer\reverse_print_list\"/>
+		</Unit>
+		<Unit filename="/home/xiang/Workspace/Learn/c++/SwordOffer/treeReconst/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\SwordOffer\treeReconst\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
