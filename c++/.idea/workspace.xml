@@ -21,6 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169b3e58-7cfa-46ee-9f6c-0e1b91b1b0fe" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
@@ -44,6 +45,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/c++.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/c++.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/queue_from_2stacks/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/queue_from_2stacks/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwordOffer/queue_from_2stacks/main_deprecated.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cuda/tut0/.idea/tut0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/stack/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/list/stack/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda/pybind/.idea/pybind.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cuda/pybind/.idea/pybind.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda/pybind/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cuda/pybind/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuda/pybind/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cuda/pybind/.idea/workspace.xml" afterDir="false" />
+>>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +66,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,6 +79,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Uym1Tm3Ry3yaWi80Kw0mZYPuCe" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1V3ZJWWjxbcYM72K7PnRI9sgfrF" />
+>>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -72,10 +92,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/SwordOffer/treeReconst" />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SwordOffer/queue_from_2stacks" />
+>>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -83,6 +109,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/SwordOffer/treeReconst" />
       <recent name="$PROJECT_DIR$/syntax" />
       <recent name="$PROJECT_DIR$/SwordOffer" />
@@ -154,6 +181,12 @@
       <item itemvalue="CMake Application.struct.bin" />
     </list>
   </component>
+=======
+      <recent name="$PROJECT_DIR$/SwordOffer/queue_from_2stacks" />
+      <recent name="$PROJECT_DIR$/sort/quickSort" />
+    </key>
+  </component>
+>>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -178,14 +211,19 @@
       <updated>1570522734634</updated>
       <workItem from="1570522737903" duration="6531000" />
       <workItem from="1570866511489" duration="9000" />
+<<<<<<< HEAD
       <workItem from="1576336994658" duration="8914000" />
       <workItem from="1576388789787" duration="13136000" />
+=======
+      <workItem from="1576483668837" duration="5813000" />
+>>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="553" y="143" width="804" height="679" key="#Notifications" timestamp="1576420015712">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -232,4 +270,6 @@
     </state>
     <state x="441" y="30" width="1022" height="732" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576411432475" />
   </component>
+=======
+>>>>>>> af5ee396ad3b72f19545db8609113593ff4fe7ec
 </project>
