@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Linux_command_line" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/Red-Black-Tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/samplemod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/setup.py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tips" vcs="Git" />
   </component>
 </project>
