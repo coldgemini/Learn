@@ -16,11 +16,13 @@ private:
 public:
     LinkedList() : head(nullptr), tail(nullptr), size(0) {};
 
+
     void push_front(int value);
 
     void reverse();
 
     void display();
+
 };
 
 void LinkedList::push_front(int value) {
